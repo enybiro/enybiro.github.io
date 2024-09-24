@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enybiro.github.io/sitemap.html.gz
+Sitemap: https://enybiro.github.io/app/sitemap.html.gz
+Sitemap: https://enybiro.github.io/assets/sitemap.html.gz
+Sitemap: https://enybiro.github.io/css/sitemap.html.gz
+Sitemap: https://enybiro.github.io/data/sitemap.html.gz
+Sitemap: https://enybiro.github.io/includes/sitemap.html.gz
+Sitemap: https://enybiro.github.io/item/sitemap.html.gz
+Sitemap: https://enybiro.github.io/src/sitemap.html.gz
